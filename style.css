@@ -364,6 +364,9 @@ footer p {
 
 /*Extra Small Screen */
 @media(max-width:576px) {
+    .hero_heading {
+        margin-top: 10%;
+    }
     .about_head {
         margin: -16% 0;
         text-align: center;
